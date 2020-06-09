@@ -12,6 +12,7 @@ public class GitTests {
     @Test
     public void contextLoads() {
         System.out.println("-----");
+        int a = 10;
 
     }
 
