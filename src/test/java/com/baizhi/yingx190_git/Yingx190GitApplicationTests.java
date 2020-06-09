@@ -15,6 +15,7 @@ public class Yingx190GitApplicationTests {
         System.out.println("-----");
         int a = 20;
         int aa = 200;
+        String str = "aaaaaa";
     }
 
 }
