@@ -24,4 +24,9 @@ public class GitTests {
         System.out.println("===");
     }
 
+    @Test()
+    public void testA() {
+        System.out.println("-----");
+    }
+
 }
