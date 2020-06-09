@@ -13,6 +13,8 @@ public class Yingx190GitApplicationTests {
     public void contextLoads() {
         System.out.println("-----");
         System.out.println("-----");
+        int a = 20;
+        int aa = 200;
     }
 
 }
