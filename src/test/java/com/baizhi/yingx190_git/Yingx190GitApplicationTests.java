@@ -12,7 +12,7 @@ public class Yingx190GitApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("-----");
-
+        System.out.println("-----");
     }
 
 }
