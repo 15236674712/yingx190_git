@@ -7,4 +7,6 @@ import java.util.List;
 public interface VideoDao {
 
     List<Video> queryAll();
+
+    Video queryById(String id);
 }
