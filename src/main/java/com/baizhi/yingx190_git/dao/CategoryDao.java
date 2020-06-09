@@ -6,4 +6,5 @@ public interface CategoryDao {
 
     Category queryById(String id);
 
+    Category queryByName(String name);
 }
